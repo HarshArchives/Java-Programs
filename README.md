@@ -1,7 +1,7 @@
 
-# :computer: Object Oriented Programming in Java and Exception Handling
+# :computer: Object Oriented Programming and Exception Handling in Java
 
-Welcome to the Object Oriented Programs with Java and Exception Handling repository! This repository contains a collection of programs written in Java that demonstrate the principles of object-oriented programming and how to handle exceptions in Java.
+Welcome to the Object Oriented Programming and Exception Handling in Java repository! This repository contains a collection of programs written in Java that demonstrate the principles of object-oriented programming and how to handle exceptions in Java.
 
 ## :rocket: Getting Started
 
